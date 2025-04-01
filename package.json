@@ -1,0 +1,18 @@
+{
+  "name": "selecao",
+  "version": "1.0.0",
+  "description": "Selecao de alunos escola EEEP Padre Bosco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenteni",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0",
+    "npm": "^11.2.0",
+    "pdfkit": "^0.16.0"
+  }
+}
