@@ -42,6 +42,11 @@ npm install
 npm start
 ```
 
-## Licença
+## Licença & Afins
 Este projeto está sob a licença MIT.
 
+<img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=VERSÃO&message=BETA&color=RED&style=for-the-badge"/>
+
+
+### By: @jkenteni
