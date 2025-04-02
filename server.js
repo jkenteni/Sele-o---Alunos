@@ -1,5 +1,6 @@
 const express = require('express');
 const PDFDocument = require('pdfkit');
+const pool = require("./db");
 const app = express();
 const port = 3000;
 

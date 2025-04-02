@@ -6,6 +6,7 @@ Este é um sistema para automatizar o processo de seleção de alunos da Escola 
 ## Tecnologias Utilizadas
 - **Front-end**: React.js
 - **Back-end**: Node.js (Express)
+- **Autenticação**: JWT (JSON Web Token)
 - **Banco de Dados**: MySQL
 - **Geração de PDF**: jsPDF
 
@@ -26,8 +27,8 @@ O banco de dados contém as seguintes tabelas:
 ## Instalação e Execução
 ### **1. Clonar o Repositório**
 ```bash
-git clone https://github.com/seuusuario/sistema-selecao.git
-cd sistema-selecao
+git clone https://github.com/jkenteni/selecao-alunos.git
+cd selecao-alunos
 ```
 ### **2. Configurar o Back-end**
 ```bash
